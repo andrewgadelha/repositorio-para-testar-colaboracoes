@@ -8,10 +8,9 @@ Praticar os recursos de colaboração do GitHub usando minhas próprias contas, 
 
 ## Atividades
 
-- [ ] Adicionar minha outra conta como colaboradora do repositório.
-- [ ] Criar uma Issue para registrar uma tarefa.
-- [ ] Fazer uma alteração em uma branch e abrir um Pull Request.
-- [ ] Revisar e integrar o Pull Request; encerrar a Issue relacionada.
+- [ x ] Criar uma Issue para registrar uma tarefa.
+- [ x ] Fazer uma alteração em uma branch e abrir um Pull Request.
+- [ x ] Revisar e integrar o Pull Request; 
 
 ## Sobre
 
